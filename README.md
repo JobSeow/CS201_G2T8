@@ -2,6 +2,10 @@
 # CS201_G2T8 
 # Source code plagiarism
 
+## Overview:
+![alt text](https://github.com/JobSeow/CS201_G2T8/blob/main/workflow.png)
+
+
 ## Useful Directories:
 
 #### "codes/src/main" directory -> Contains maven project for 3 algorithms.
